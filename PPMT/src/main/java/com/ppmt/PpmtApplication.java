@@ -10,4 +10,5 @@ public class PpmtApplication {
 		SpringApplication.run(PpmtApplication.class, args);
 	}
 
+	
 }
